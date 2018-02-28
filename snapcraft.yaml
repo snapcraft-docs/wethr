@@ -14,7 +14,7 @@ confinement: devmode
 
 apps:
   wethr:
-    command: wethr
+    command: bin/wethr
 
 parts:
   wethr:
